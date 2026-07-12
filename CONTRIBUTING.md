@@ -1,4 +1,4 @@
-# Contributing to Simple-Interest-Calculator
+# Contributing to github-final-project
 
 Thank you for considering contributing to this project!
 
